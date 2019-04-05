@@ -13,4 +13,5 @@ in python and compared performance of algorithms on them.
   * [HJB equation based learning scheme for neural networks](https://ieeexplore.ieee.org/abstract/document/7966134)
   * [HJB-Equation-Based Optimal Learning Scheme for Neural Networks With Applications in Brain–Computer Interface](https://ieeexplore.ieee.org/abstract/document/8437157)
 * Studied Bayesian Optimisation and Gaussian Processes in depth and implemented Bayesian Optimisation in python.
-* Currently writing code for new idea that I suggested.
+* Wrote code for Bayesian Optimisation augmentation and included images which clearly show the better performance of the proposed approach. So far, I have assumed that the form of the function is known. I will also write code for situation when function is not known before hand.
+* Currently implementing Prof. Vipul Arora's algorithm in python.
