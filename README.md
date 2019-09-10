@@ -1,4 +1,4 @@
-# UGP (Ongoing)
+# UGP
 This repository contains all files related to Undergraduate project under [Prof. Vipul Arora](http://home.iitk.ac.in/~vipular/).
 ## Goal
 Use reinforcement learning and Bayesian Optimisation in Optimal Learning and suggest methods to improve this [paper](https://ieeexplore.ieee.org/abstract/document/7966134).
